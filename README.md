@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <a href="../LAB/BLOG/BLOG.html">a</a>
+    <a href="BLOG.html">a</a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>
