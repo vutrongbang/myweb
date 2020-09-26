@@ -19,12 +19,20 @@
         }
     </style>
 </head>
-<body>
-    <a href="../BLOG.html">a</a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
-    <a href=""></a>
 
+
+    
+
+
+<body>
+
+<div class="container">
+    <h2>home</h2>
+    <a href="../LAB/BLOG/BLOG.html">a</a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+</div>
 </body>
